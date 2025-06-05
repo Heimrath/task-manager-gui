@@ -14,10 +14,6 @@ A simple and lightweight task manager built with Python and [CustomTkinter](http
 - Python 3
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 
-## 📸 Preview
-
-![App Screenshot](app_2.png)
-
 ## 📦 Installation
 
 1. Clone the repository:
